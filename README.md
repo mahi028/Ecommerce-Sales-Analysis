@@ -29,6 +29,7 @@ The following techniques and models are applied for analysis:
 3. **Demand Forecasting:** Using Time series analysis and ARIMA models to predict future demand.
 4. **Return Analysis:** Examining return patterns and their impact on sales and revenue.  
 5. **Customer Segmentation:** Clustering techniques (e.g., K-Means) to identify customer behavior patterns.
+See the [Analysis Notebook](AnalysisNotebook.ipynb) for detailed implementation.
 
 ## 🚀 Tech Stack  
 - **Programming Language:** Python  
