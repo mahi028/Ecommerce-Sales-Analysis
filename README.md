@@ -38,6 +38,11 @@ The following techniques and models are applied for analysis:
  ┣ 📜 AnalysisNotebook.ipynb    # Main analysis notebook
  ┣ 📜 Dataset.xlsx              # Dataset
  ┣ 📜 FinalReport.pdf           # Report Containing explanation of methods, insights, recommendations etc
+ ┣ 📜 License   
  ┣ 📜 Presentation.pptx         # Powerpoint Presentation
  ┣ 📜 ProposalReport.pdf        # Initial report explaning problems, methods to be used for analysis and possible outcomes   
  ┗ 📜 README.md                 # Project documentation
+```
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
