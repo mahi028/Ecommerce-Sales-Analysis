@@ -35,9 +35,9 @@ The following techniques and models are applied for analysis:
 ## 📜 Folder Structure  
 ```plaintext
 📦 ecommerce-sales-analysis
- ┣ 📜 ProposalReport.pdf # Initial report explaning problems, methods to be used for analysis and possible outcomes   
- ┣ 📜 FinalReport.pdf    # Report Containing explanation of methods, insights, recommendations etc
- ┣ 📜 Dataset.xlsx       # Dataset
- ┣ 📜 README.md          # Project documentation
- ┗ 📜 analysis.ipynb     # Main analysis notebook
- ┗ 📜 Presentation.pptx  # Powerpoint Presentation
+ ┣ 📜 AnalysisNotebook.ipynb    # Main analysis notebook
+ ┣ 📜 Dataset.xlsx              # Dataset
+ ┣ 📜 FinalReport.pdf           # Report Containing explanation of methods, insights, recommendations etc
+ ┣ 📜 Presentation.pptx         # Powerpoint Presentation
+ ┣ 📜 ProposalReport.pdf        # Initial report explaning problems, methods to be used for analysis and possible outcomes   
+ ┗ 📜 README.md                 # Project documentation
