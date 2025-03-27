@@ -13,6 +13,9 @@ The project focuses on four key challenges:
 - **Return Analysis:** A high volume of product returns impacts profitability, requiring deeper insights.
 - **Customer Segmentation:** Understanding customer segments leads to better targeting of differents groups.
 
+## 📈 Insights and Recommendations
+Please read the [Final Report](FinalReport.pdf) for detailed insights and recommendations.
+
 ## 📂 Dataset  
 - **Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)  
 - **Fields:** `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`  
