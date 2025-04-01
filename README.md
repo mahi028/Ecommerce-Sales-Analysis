@@ -1,10 +1,10 @@
 # 📊 E-Commerce Sales Analysis and Optimization  
 
 ## 📌 Project Overview  
-This project analyzes e-commerce sales data to optimize demand forecasting, product performance evaluation, and return management. The analysis aims to help businesses enhance operational efficiency, minimize costs, and improve customer satisfaction through data-driven insights.  
+This project analyzes e-commerce sales data to optimize demand forecasting, product performance evaluation, and return management. The analysis aims to help businesses enhance operational efficiency, minimize costs, and improve customer satisfaction through data-driven insights. 
 
 ## 🏢 Organization Background  
-The dataset originates from an online retail store based in the UK, which specializes in selling homeware and gift items globally. The business caters to both individual customers (B2C) and wholesalers (B2B), operating through an e-commerce platform.  
+The dataset originates from an online retail store based in the UK, which specializes in selling homeware and gift items globally. The business caters to both individual customers and wholesalers, operating through an e-commerce platform.  
 
 ## 🎯 Problem Statement  
 The project focuses on four key challenges:  
@@ -14,7 +14,7 @@ The project focuses on four key challenges:
 - **Customer Segmentation:** Understanding customer segments leads to better targeting of differents groups.
 
 ## 📈 Insights and Recommendations
-Please read the [Final Report](FinalReport.pdf) for detailed insights and recommendations.
+Please read the [Final Report](Files/FinalReport.pdf) for detailed insights and recommendations.
 
 ## 📂 Dataset  
 - **Source:** [UCI Machine Learning Repository - Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)  
@@ -30,7 +30,7 @@ The following techniques and models are applied for analysis:
 4. **Return Analysis:** Examining return patterns and their impact on sales and revenue.  
 5. **Customer Segmentation:** Clustering techniques (e.g., K-Means) to identify customer behavior patterns.
 
-See the [Analysis Notebook](AnalysisNotebook.ipynb) for detailed implementation.
+See the [Analysis Notebook](Files/AnalysisNotebook.ipynb) for detailed implementation.
 
 ## 🚀 Tech Stack  
 - **Programming Language:** Python  
@@ -40,12 +40,13 @@ See the [Analysis Notebook](AnalysisNotebook.ipynb) for detailed implementation.
 ## 📜 Folder Structure  
 ```plaintext
 📦 ecommerce-sales-analysis
- ┣ 📜 AnalysisNotebook.ipynb    # Main analysis notebook
- ┣ 📜 Dataset.xlsx              # Dataset
- ┣ 📜 FinalReport.pdf           # Report Containing explanation of methods, insights, recommendations etc
- ┣ 📜 License   
- ┣ 📜 Presentation.pptx         # Powerpoint Presentation
- ┣ 📜 ProposalReport.pdf        # Initial report explaning problems, methods to be used for analysis and possible outcomes   
+ ┣  📦 Files                    # Submission Reports / Files
+    ┣ 📜 AnalysisNotebook.ipynb    # Main analysis notebook
+    ┣ 📜 Dataset.xlsx              # Dataset
+    ┣ 📜 FinalReport.pdf           # Report Containing explanation of methods, insights, recommendations etc
+    ┣ 📜 Presentation.pptx         # Powerpoint Presentation
+    ┗ 📜 ProposalReport.pdf        # Initial report explaning problems, methods to be used for analysis and possible outcomes
+ ┣ 📜 License
  ┗ 📜 README.md                 # Project documentation
 ```
 
